@@ -1,4 +1,4 @@
-# Comic-Folder-Viewer---
+# Comic-Folder-Viewer
 
 ## Comic Folder Viewer - 轻量级漫画浏览工具
 🚀 一键全屏阅读 | 智能目录导航 | 极简键盘操作
